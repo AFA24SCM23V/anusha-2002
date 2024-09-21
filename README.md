@@ -20,7 +20,7 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
 
 <p align="justify">📚 I'm currently preparing for: AWS Cloud Practitioner Certification, Microsoft Cybersecurity Analyst Certification<br><br>📚 Recipient of:<br>     -> WiCyS Security Training Scholarship for (ISC)² Certification<br>     -> WIC Scholarship for Microsoft Cybersecurity Analyst Certification Course <br><br>📚 Active member of <br>   -> Women in Cyber Security<br>   -> Women in Cloud
   <p>🖥 All of my projects are available on <a href="https://github.com/anusha-2002?tab=repositories">Github</a><br>
-  📄 view my resume <a href="URL_TO_YOUR_RESUME" target="_blank">here</a>.
+  📄 view my resume <a href="https://github.com/anusha-2002/anusha-2002/blob/main/Anusha%20V%20Resume-1.pdf" target="_blank">here</a>.
 </p>
 
   📞 How to reach me: 
