@@ -25,12 +25,14 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
 
   📞 How to reach me: 
 <a href="mailto:venkateshanusha2002@gmail.com">venkateshanusha2002@gmail.com</a> | 
-<a href="mailto:avenkatesh2@hawk.iit.edu">avenkatesh2@hawk.iit.edu</a> | 
+<a href="mailto:avenkatesh2@hawk.iit.edu">avenkatesh2@hawk.iit.edu</a>  
 <br>
 🙋🏻‍♀️ I'm also on: <a href="https://www.linkedin.com/in/anusha-venkatesh-794290271/" target="_blank">LinkedIn</a> <br>
 
-<div align ="center"  style="border: 2px solid #ddd; padding: 15px; border-radius: 8px; margin: 20px 0;">
-  🎲 Fun fact: My room might be a chaotic mess, but my code is always clean! 😌
+<div align="center" style="border: 2px solid #ddd; padding: 15px; border-radius: 8px; margin: 20px 0; background-color: #f9f9f9;">
+  <p style="font-size: 16px; color: #333;">
+    🎲 Fun fact: My room might be a chaotic mess, but my code is always clean! 😌
+  </p>
 </div>
 
 <h3 align="left">Languages and tools</h3>
@@ -70,13 +72,8 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
 
 <h3 align="center">🔍 Let's connect and discuss how we can collaborate on a project, how I can contribute to your organization, or maybe we can chat about travel destinations and plan a trip together—yay!!</h3>
 
-###
 
-<h3 align="left">Let's connect</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/anusha-venkatesh-794290271/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -88,8 +85,8 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
   </a>
 </div>
 
-###
-
+<br>
+<h2 align="center">Github stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anusha-2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anusha-2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
