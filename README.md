@@ -8,7 +8,9 @@
 </div>
 <h3 align="center">About me</h3>
 <p align="left">An aspiring Software Engineer with a passion for coding and a keen interest in Cloud Computing and Cybersecurity.  <br>I’m currently pursuing my Master’s in Computer Science at the Illinois Institute of Technology, after earning my Bachelor's in Information Science from BIT, Bangalore.  <br><br>Having solved over 500+ problems on platforms like GeeksforGeeks, LeetCode, CodeChef, and HackerRank, I thrive on challenges and continue to hone my skills in Data Structures and Algorithms!</p>
-<p align="left">📚 I'm currently preparing for: AWS Cloud Practitioner Certification, Microsoft Cybersecurity Analyst Certification<br><br>📚 Recipient of:<br>  ✧ WiCyS Security Training Scholarship for (ISC)² Certification<br>  ✧ WIC Scholarship for Microsoft Cybersecurity Analyst Certification Course <br><br>📚 Active member of <br>✧ Women in Cyber Security<br>✧ Women in Cloud<br><br>📞 How to reach me: venkateshanusha2002@gmail.com | avenkatesh2@hawk.iit.edu | +1 (312) 843-2409<br><br>🖥 I'm also on: LinkedIn<br><br>🎲 Fun fact: My room might be a chaotic mess, but my code is always clean!</p>
+<p align="left">📚 I'm currently preparing for: AWS Cloud Practitioner Certification, Microsoft Cybersecurity Analyst Certification<br><br>📚 Recipient of:<br>  ✧ WiCyS Security Training Scholarship for (ISC)² Certification<br>  ✧ WIC Scholarship for Microsoft Cybersecurity Analyst Certification Course <br><br>📚 Active member of <br>✧ Women in Cyber Security<br>✧ Women in Cloud<br><br>
+  📞 📫 How to reach me: [venkateshanusha2002@gmail.com](mailto:venkateshanusha2002@gmail.com) | [avenkatesh2@hawk.iit.edu](mailto:avenkatesh2@hawk.iit.edu) | [+1 (312) 843-2409](tel:+13128432409)
+<br>🖥 I'm also on: LinkedIn<br><br>🎲 Fun fact: My room might be a chaotic mess, but my code is always clean!</p>
 <h3 align="left">Languages and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
