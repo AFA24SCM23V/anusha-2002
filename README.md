@@ -4,8 +4,9 @@
   <p align="center">An aspiring Software Engineer with a passion for coding and a keen interest in Cloud Computing and Cybersecurity. </p>
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzcz4Mv2l3JYHh_XQ_kv5QOWVkkxPjRaCa0lUfY54MBz8gnQnjIy5cX137G7aPzv25Ug&usqp=CAU"  />
 </div>
-  <img src="https://profile-counter.glitch.me/anusha-2002/count.svg?" height="15" align = "left"/>
-
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=anusha-2002&label=Profile%20views&color=0e75b6&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=anusha-2002&label=Profile%20views&color=0e75b6&style=flat" alt="anusha-2002" style="max-width: 100%;">
+</a>
 <h3 align="center">About me</h3>
 <p align="justify">I’m currently pursuing my Master’s in Computer Science at the Illinois Institute of Technology, after earning my Bachelor's in Information Science from BIT, Bangalore.<br><br>
 Having solved over 500+ problems on platforms like 
@@ -17,18 +18,20 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
 </p>
 
 
-<p align="justify">📚 I'm currently preparing for: AWS Cloud Practitioner Certification, Microsoft Cybersecurity Analyst Certification<br><br>📚 Recipient of:<br>  ✧ WiCyS Security Training Scholarship for (ISC)² Certification<br>  ✧ WIC Scholarship for Microsoft Cybersecurity Analyst Certification Course <br><br>📚 Active member of <br>✧ Women in Cyber Security<br>✧ Women in Cloud<br><br>
+<p align="justify">📚 I'm currently preparing for: AWS Cloud Practitioner Certification, Microsoft Cybersecurity Analyst Certification<br><br>📚 Recipient of:<br>     -> WiCyS Security Training Scholarship for (ISC)² Certification<br>     -> WIC Scholarship for Microsoft Cybersecurity Analyst Certification Course <br><br>📚 Active member of <br>   -> Women in Cyber Security<br>   -> Women in Cloud
+  <p>🖥 All of my projects are available on <a href="https://github.com/anusha-2002?tab=repositories">Github</a><br>
+  📄 view my resume <a href="URL_TO_YOUR_RESUME" target="_blank">here</a>.
+</p>
+
   📞 How to reach me: 
 <a href="mailto:venkateshanusha2002@gmail.com">venkateshanusha2002@gmail.com</a> | 
 <a href="mailto:avenkatesh2@hawk.iit.edu">avenkatesh2@hawk.iit.edu</a> | 
 <br>
-🖥 I'm also on: <a href="https://www.linkedin.com/in/anusha-venkatesh-794290271/" target="_blank">LinkedIn</a> <br>
+🙋🏻‍♀️ I'm also on: <a href="https://www.linkedin.com/in/anusha-venkatesh-794290271/" target="_blank">LinkedIn</a> <br>
 
-
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 8px; margin: 20px 0;">
+<div align ="center"  style="border: 2px solid #ddd; padding: 15px; border-radius: 8px; margin: 20px 0;">
   🎲 Fun fact: My room might be a chaotic mess, but my code is always clean! 😌
 </div>
-
 
 <h3 align="left">Languages and tools</h3>
 <div align="left">
