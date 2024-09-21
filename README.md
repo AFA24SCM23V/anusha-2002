@@ -1,12 +1,22 @@
-<h1 align="center">Hola, fellow digital denizen!</h1>
+<h1 align="center">Hola, fellow digital denizen!👋</h1>
 <h2 align="center">I'm Anusha Venkatesh👩🏻‍💻⚡️</h2>
 <div align="center">
+  <p align="center">An aspiring Software Engineer with a passion for coding and a keen interest in Cloud Computing and Cybersecurity. </p>
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzcz4Mv2l3JYHh_XQ_kv5QOWVkkxPjRaCa0lUfY54MBz8gnQnjIy5cX137G7aPzv25Ug&usqp=CAU"  />
 </div>
   <img src="https://profile-counter.glitch.me/anusha-2002/count.svg?" height="15" align = "left"/>
 
 <h3 align="center">About me</h3>
-<p align="justify">An aspiring Software Engineer with a passion for coding and a keen interest in Cloud Computing and Cybersecurity.  <br>I’m currently pursuing my Master’s in Computer Science at the Illinois Institute of Technology, after earning my Bachelor's in Information Science from BIT, Bangalore.  <br><br>Having solved over 500+ problems on platforms like GeeksforGeeks, LeetCode, CodeChef, and HackerRank, I thrive on challenges and continue to hone my skills in Data Structures and Algorithms!</p>
+<p align="justify">I’m currently pursuing my Master’s in Computer Science at the Illinois Institute of Technology, after earning my Bachelor's in Information Science from BIT, Bangalore.<br><br>
+Having solved over 500+ problems on platforms like 
+<a href="https://www.geeksforgeeks.org/user/anusha777/" target="_blank">GeeksforGeeks</a>, 
+<a href="https://leetcode.com/u/anusha_2002/" target="_blank">LeetCode</a>, 
+<a href="https://www.codechef.com/users/anushavenkats" target="_blank">CodeChef</a>, and 
+<a href="https://www.hackerrank.com/profile/venkateshanusha1" target="_blank">HackerRank</a>, 
+I thrive on challenges and continue to hone my skills in Data Structures and Algorithms!
+</p>
+
+
 <p align="justify">📚 I'm currently preparing for: AWS Cloud Practitioner Certification, Microsoft Cybersecurity Analyst Certification<br><br>📚 Recipient of:<br>  ✧ WiCyS Security Training Scholarship for (ISC)² Certification<br>  ✧ WIC Scholarship for Microsoft Cybersecurity Analyst Certification Course <br><br>📚 Active member of <br>✧ Women in Cyber Security<br>✧ Women in Cloud<br><br>
   📞 How to reach me: 
 <a href="mailto:venkateshanusha2002@gmail.com">venkateshanusha2002@gmail.com</a> | 
