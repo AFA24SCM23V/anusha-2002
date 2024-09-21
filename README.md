@@ -70,7 +70,7 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
 
 ###
 
-<h3 align="center">🔍 Let's connect and discuss how we can collaborate on a project, how I can contribute to your organization, or maybe we can chat about travel destinations and plan a trip together—yay!!</h3>
+<h3 align="center">🔍 I'm excited to connect and discuss potential collaborations, share how I can contribute to your organization, or chat about travel destinations and plan a trip together—yay!!</h3>
 
 
 <div align="center">
