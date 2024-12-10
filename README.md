@@ -1,7 +1,7 @@
 <h1 align="center">Hola, fellow digital denizen!👋</h1>
 <h2 align="center">I'm Anusha Venkatesh👩🏻‍💻⚡️</h2>
 <div align="center">
-  <p align="center">An aspiring Software Engineer with a passion for coding and a keen interest in Cloud Computing and Cybersecurity. </p>
+  <p align="center">An aspiring Software Engineer with a passion for coding and a keen interest in Software Development and Cloud Computing </p>
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzcz4Mv2l3JYHh_XQ_kv5QOWVkkxPjRaCa0lUfY54MBz8gnQnjIy5cX137G7aPzv25Ug&usqp=CAU"  />
 </div>
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=anusha-2002&label=Profile%20views&color=0e75b6&style=flat">
