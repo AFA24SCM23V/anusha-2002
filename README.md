@@ -20,7 +20,7 @@ I thrive on challenges and continue to hone my skills in Data Structures and Alg
 
 <p align="justify">📚 I'm currently preparing for: AWS Cloud Practitioner Certification<br><br>📚 Active member of <br>   -> Women in Cyber Security<br>   -> Women in Cloud
   <p>🖥 All my projects are available on <a href="https://github.com/anusha-2002?tab=repositories">Github</a><br>
-  📄 view my resume <a href="[https://drive.google.com/file/d/1XWS9T4bqcambJ8Jf-9qK0kd11VM-Epov/view?usp=drive_link](https://docs.google.com/document/d/1iiQEfXObOFY9k4e26TTjYOqq3PZaRl3n/edit?usp=drive_link&ouid=101520478508222660515&rtpof=true&sd=true)" target="_blank">here</a>.
+  📄 view my resume <a href="https://docs.google.com/document/d/1iiQEfXObOFY9k4e26TTjYOqq3PZaRl3n/edit?usp=drive_link&ouid=101520478508222660515&rtpof=true&sd=true" target="_blank">here</a>.
 </p>
 
   📞 How to reach me: 
